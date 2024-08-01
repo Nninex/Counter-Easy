@@ -53,3 +53,18 @@ button {
     border: 3px solid rgb(254, 250, 250);
     border-radius: 10px;
 }
+
+span {
+    border-bottom: 2px solid rgb(246, 235, 235);
+    padding: 4px;
+}
+
+button {
+    margin: 20px 0;
+    background: rgb(190, 45, 125);
+    color: black;
+    border: 1px solid black;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px 8px;
+}
